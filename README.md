@@ -5,7 +5,7 @@ This project is intended to cover the following technologies:
   * React-Redux
   * React Router V4
   * CORS NodeJS
-  * REST Api
+  * REST API
   * Express
   * MongoDB
   * Mongoose
