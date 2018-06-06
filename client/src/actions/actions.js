@@ -6,3 +6,10 @@ function newsReceived(news){
         news: news
     }
 }
+
+
+export function fetchNews(fakeNews){
+    return dispatch => {
+        dispatch(newsReceived(fakeNews));
+    }
+}
